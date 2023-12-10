@@ -3,5 +3,10 @@
     <style name="Base.Theme.AppCocktail" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/light_gray</item>
+        <item name="colorOnPrimary">@color/gray</item>
+        
+        <item name="android:statusBarColor">@color/black</item>
     </style>
 </resources>

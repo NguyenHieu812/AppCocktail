@@ -1,24 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#1A1A1B</color>
+    <color name="black_secondary">#080808</color>
+    <color name="gray">#303030</color>
+    <color name="light_gray">#636363</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#D7DADC</color>
+    <string name="added_at_label">Added At: </string>
+    <string name="added_to_favourites">Added To Favourites</string>
     <string name="app_name">AppCocktail</string>
     <string name="click_to_login">Click to login</string>
     <string name="click_to_register">Click to Register</string>
+    <string name="confirm_exit">Tap again to exit</string>
     <string name="email">Email</string>
+    <string name="error_added_to_favourites">Failed To Add To Favourites</string>
+    <string name="error_fetch_api">Failed To Fetch Your Drinks</string>
+    <string name="error_json_parse">Failed To Prepare Results</string>
+    <string name="error_no_results">No Results Found</string>
+    <string name="error_removed_from_favourites">Failed To Remove From Favourites</string>
+    <string name="favourites_hint">Add To Favourites</string>
+    <string name="favourites_title">Your Favourite Drinks</string>
     <string name="gcm_defaultSenderId" translatable="false">400696557030</string>
+    <string name="glass_suggestion_label">Suggested glass: </string>
     <string name="google_api_key" translatable="false">AIzaSyCqmQI_90IHkSzoE7THYPEpqlJDI8unWIQ</string>
     <string name="google_app_id" translatable="false">1:400696557030:android:98e79caa6c6bafead2ea27</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqmQI_90IHkSzoE7THYPEpqlJDI8unWIQ</string>
     <string name="google_storage_bucket" translatable="false">user-login-1b3e9.appspot.com</string>
+    <string name="homeNow">Home Now</string>
     <string name="login">Login</string>
     <string name="logout">Logout</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_home">Drink</string>
+    <string name="nav_search">Search</string>
+    <string name="no_favourite_drinks">You have no favourite drinks!</string>
+    <string name="no_internet">No Internet Available</string>
     <string name="password">Password</string>
     <string name="project_id" translatable="false">user-login-1b3e9</string>
     <string name="register">Register</string>
+    <string name="removed_from_favourites">Removed From Favourites</string>
+    <string name="search_hint">Search</string>
     <style name="Base.Theme.AppCocktail" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/light_gray</item>
+        <item name="colorOnPrimary">@color/gray</item>
+        
+        <item name="android:statusBarColor">@color/black</item>
     </style>
     <style name="Theme.AppCocktail" parent="Base.Theme.AppCocktail"/>
+    <style name="Theme.AppCocktail.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.AppCocktail.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCocktail.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="nav_active">
+        <item name="itemIconTint">@color/white</item>
+    </style>
+    <style name="nav_items">
+        <item name="itemIconTint">@color/light_gray</item>
+    </style>
 </resources>

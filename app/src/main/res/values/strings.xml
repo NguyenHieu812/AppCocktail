@@ -7,4 +7,24 @@
     <string name="click_to_login">Click to login</string>
     <string name="click_to_register" >Click to Register</string>
     <string name="logout">Logout</string>
+    <string name="homeNow">Home Now</string>
+<!--    Another-->
+    <string name="nav_search">Search</string>
+    <string name="nav_home">Drink</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="favourites_title">Your Favourite Drinks</string>
+    <string name="search_hint">Search</string>
+    <string name="favourites_hint">Add To Favourites</string>
+    <string name="added_to_favourites">Added To Favourites</string>
+    <string name="removed_from_favourites">Removed From Favourites</string>
+    <string name="glass_suggestion_label">Suggested glass: </string>
+    <string name="added_at_label">Added At: </string>
+    <string name="no_favourite_drinks">You have no favourite drinks!</string>
+    <string name="error_added_to_favourites">Failed To Add To Favourites</string>
+    <string name="error_removed_from_favourites">Failed To Remove From Favourites</string>
+    <string name="error_no_results">No Results Found</string>
+    <string name="error_fetch_api">Failed To Fetch Your Drinks</string>
+    <string name="error_json_parse">Failed To Prepare Results</string>
+    <string name="confirm_exit">Tap again to exit</string>
+    <string name="no_internet">No Internet Available</string>
 </resources>

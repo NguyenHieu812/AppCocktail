@@ -1,78 +1,362 @@
 [
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_search.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\search.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\layout\\activity_home.xml"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_search_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\search_round.xml"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/xml_backup_rules.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_no_image_sm.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\no_image_sm.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/layout_activity_register.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/layout/activity_register.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\search.xml"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_favourite_filled.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\favourite_filled.xml"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_search_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\search_round.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_search.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\search.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_favourite_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\favourite_round.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/layout_activity_main.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_drink_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\drink_foreground.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_drink_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\drink_foreground.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/layout_activity_login.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/layout/activity_login.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\menu-v26_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\menu-v26\\bottom_nav_menu.xml"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_wine.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\wine.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_drink.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\drink.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_search_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\search_round.png"
     },
     {
-        "merged": "com.example.appcocktail.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.appcocktail.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_drink.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\drink.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_favourite.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_favourite.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_drink_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\drink_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_drink_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\drink_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_drink.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\drink.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_drink_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\drink_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_wine_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\wine_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_wine_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\wine_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_wine.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\wine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_favourite.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_drink_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\drink_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_drink_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\drink_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_drink_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\drink_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_search.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_edittext_cursor.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\edittext_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_drink_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\drink_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_drink_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\drink_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_favourite_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\favourite_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_favourite_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\favourite_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_drink.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_favourite.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_favourite_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\favourite_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\layout_fragment_drink.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\layout\\fragment_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_favourite_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\favourite_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_wine.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\wine.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_search_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_drink.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\drink.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_drink_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\drink_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_wine.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\wine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_wine_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\wine_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.appcocktail.app-merged_res-5:/layout_fragment_drink.xml.flat",
+        "source": "com.example.appcocktail.app-main-7:/layout/fragment_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_drink.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\drink.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_wine_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\wine_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_wine_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\wine_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\layout_fragment_favourite.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\layout\\fragment_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_wine.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\wine.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_search.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_wine_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\wine_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_wine.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\wine.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_search_border.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\search_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxxhdpi_wine_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxxhdpi\\wine_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_favourite.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_wine.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\wine.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\drawable_favourite_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\drawable\\favourite_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_favourite_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\favourite_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_search_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_favourite.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_drink_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\drink_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-hdpi_favourite.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-hdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\mipmap-xhdpi_search_round.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\mipmap-xhdpi\\search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-merged_res-5:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\daemon\\8.0\\com.example.appcocktail.app-main-7:\\menu\\bottom_nav_menu.xml"
     }
 ]

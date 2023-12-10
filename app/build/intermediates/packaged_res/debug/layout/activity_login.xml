@@ -7,7 +7,7 @@
     android:gravity="center"
     android:padding="15dp"
     android:layout_height="match_parent"
-    tools:context=".Login">
+    tools:context=".ui.Login">
 
     <TextView
         android:text="@string/login"

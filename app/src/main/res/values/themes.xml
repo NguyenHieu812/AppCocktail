@@ -3,7 +3,18 @@
     <style name="Base.Theme.AppCocktail" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/light_gray</item>
+        <item name="colorOnPrimary">@color/gray</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/black</item>
     </style>
+    <style name="Theme.AppCocktail.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCocktail.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
+    <style name="Theme.AppCocktail.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
     <style name="Theme.AppCocktail" parent="Base.Theme.AppCocktail" />
 </resources>

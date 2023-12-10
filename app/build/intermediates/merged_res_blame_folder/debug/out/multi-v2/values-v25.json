@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.appcocktail.app-mergeDebugResources-34:/values-v25/values-v25.xml",
+            "outputFile": "com.example.appcocktail.app-mergeDebugResources-3:/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\986d40ec9e622783b8bb05f7a0a6d7a4\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\Admin\\Downloads\\NotesApp-master\\caches\\transforms-3\\986d40ec9e622783b8bb05f7a0a6d7a4\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

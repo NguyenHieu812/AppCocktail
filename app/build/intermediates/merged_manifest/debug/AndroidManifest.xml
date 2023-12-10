@@ -31,7 +31,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.Material3.Light" >
         <activity
-            android:name="com.example.appcocktail.Register"
+            android:name="com.example.appcocktail.ui.Register"
             android:exported="true"
             android:theme="@style/Theme.Material3.Light.NoActionBar" >
             <intent-filter>
@@ -41,7 +41,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.appcocktail.Login"
+            android:name="com.example.appcocktail.ui.Login"
             android:exported="true"
             android:theme="@style/Theme.Material3.Light.NoActionBar" >
             <intent-filter>
@@ -51,9 +51,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.appcocktail.MainActivity"
+            android:name="com.example.appcocktail.ui.MainActivity"
             android:exported="true" >
         </activity>
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
             android:excludeFromRecents="true"
@@ -107,18 +113,6 @@
         </service>
 
         <provider
-            android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.example.appcocktail.firebaseinitprovider"
-            android:directBootAware="true"
-            android:exported="false"
-            android:initOrder="100" />
-
-        <activity
-            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-
-        <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.example.appcocktail.androidx-startup"
             android:exported="false" >
@@ -132,6 +126,24 @@
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
         </provider>
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.appcocktail.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
 
         <meta-data
             android:name="com.google.android.gms.version"

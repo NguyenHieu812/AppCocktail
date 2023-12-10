@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="nav_items">
+        <item name="itemIconTint">@color/light_gray</item>
+    </style>
+    <style name="nav_active">
+        <item name="itemIconTint">@color/white</item>
+    </style>
+</resources>
